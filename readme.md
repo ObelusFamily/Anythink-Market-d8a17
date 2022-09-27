@@ -19,6 +19,3 @@ For start the docker container you will need to run :
 docker-compose up
 ``` 
 To check if all the containers are runing correctly go to http://localhost:3000/api/ping and add an account on http://localhost:3001/register. Then you good to go.
-
-**[TODO 05/01/2018 @vanessa-cooper]:** _It's been a while since anyone ran a fresh copy of this repo. I think it's worth documenting the steps needed to install and run the repo on a new machine?_
-
